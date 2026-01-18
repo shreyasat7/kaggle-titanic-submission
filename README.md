@@ -1,4 +1,3 @@
-# kaggle-titanic-submission
 # Kaggle Titanic Submission
 
 This repository contains my submission for the Kaggle competition  
